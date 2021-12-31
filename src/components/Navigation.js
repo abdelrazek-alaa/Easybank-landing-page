@@ -9,7 +9,7 @@ export default function Navigation() {
         className={
           "md:flex " +
           (navbarOpen
-            ? "block absolute left-0 right-0 top-10 sm:top-14 shadow-2xl rounded text-center space-y-1.5 py-5 border-2 bg-white"
+            ? "block absolute left-0 right-0 top-12 sm:top-16 shadow-2xl rounded text-center space-y-1.5 py-5 border-2 bg-white"
             : "hidden")
         }
       >

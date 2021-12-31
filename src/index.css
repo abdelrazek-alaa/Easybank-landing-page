@@ -4,6 +4,26 @@
 @tailwind components;
 @tailwind utilities;
 
-.mobile-object-position {
-  object-position: center -94px;
+.theme-object-position {
+  object-position: center -157px;
+}
+
+/* sm screen */
+@media (min-width: 640px) {
+  .theme-object-position {
+    object-position: center -233px;
+  }
+}
+
+/* md screen */
+@media (min-width: 768px) {
+  .theme-object-position {
+    object-position: 55px -56px;
+  }
+}
+/* lg screen */
+@media (min-width: 1024px) {
+  .theme-object-position {
+    object-position: 147px -77px;
+  }
 }

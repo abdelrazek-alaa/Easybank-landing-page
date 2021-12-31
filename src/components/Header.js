@@ -1,6 +1,5 @@
 import Navigation from "./Navigation";
 import ActionButton from "./ActionButton";
-import { data } from "../data";
 import Logo from "./Logo";
 
 export default function Header() {

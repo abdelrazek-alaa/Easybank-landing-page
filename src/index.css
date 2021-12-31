@@ -3,3 +3,7 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.mobile-object-position {
+  object-position: center -94px;
+}

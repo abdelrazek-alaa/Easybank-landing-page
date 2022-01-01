@@ -22,8 +22,8 @@ export const data = {
   },
   advantages: {
     headingText: "Why choose Easybank?",
-    paragraph: `  We leverage Open Banking to turn your bank account into your financial hub. Control 
-  your finances like never before.`,
+    paragraph1: `We leverage Open Banking to turn your bank account into your financial hub.`,
+    paragraph2: `Control your finances like never before.`,
     features: [
       {
         headingText: "Online Banking",

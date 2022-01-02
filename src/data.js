@@ -53,7 +53,7 @@ export const data = {
   },
   latestArticles: {
     headingText: "Latest Articles",
-    Articles: [
+    articles: [
       {
         author: "By Claire Robinson",
         title: "Receive money in any currency with no fees",

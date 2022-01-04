@@ -1,5 +1,8 @@
 export const data = {
-  logo: "/images/logo.svg",
+  logo: {
+    img: "/images/logo.svg",
+    footer: "/images/logo-footer.svg",
+  },
   header: {
     navLinks: [
       { text: "Home", url: "#" },
@@ -107,7 +110,7 @@ export const data = {
         alt: "instagram icon",
       },
     ],
-    link: [
+    links: [
       { text: "About Us", url: "#" },
       { text: "Contact", url: "#" },
       { text: "Blog", url: "#" },

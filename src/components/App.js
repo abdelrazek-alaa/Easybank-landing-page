@@ -2,6 +2,7 @@ import Header from "./Header";
 import Intro from "./Intro";
 import Features from "./Features";
 import Articles from "./Articles";
+import Footer from "./Footer";
 
 function App() {
   return (
@@ -12,6 +13,7 @@ function App() {
         <Features />
         <Articles />
       </div>
+      <Footer />
     </div>
   );
 }

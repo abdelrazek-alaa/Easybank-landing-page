@@ -23,7 +23,11 @@ export default function Footer() {
           </div>
           <div className="text-white flex flex-col md:h-32 flex-wrap gap-x-16 xl:gap-x-36">
             {data.footer.links.map((link) => (
-              <a key={link.text} href={link.url} className="mb-3">
+              <a
+                key={link.text}
+                href={link.url}
+                className="mb-3 hover:text-lime-green"
+              >
                 {link.text}
               </a>
             ))}

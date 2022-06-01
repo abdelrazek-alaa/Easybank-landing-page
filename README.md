@@ -1,4 +1,4 @@
-# frontendmentor "Eeasybank landing page" challenge
+# Frontendmentor "Easybank landing page" Challenge
 ### Dependencies
 - React
 - Tailwindcss
